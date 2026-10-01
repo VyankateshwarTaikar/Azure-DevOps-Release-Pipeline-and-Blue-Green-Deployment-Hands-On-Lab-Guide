@@ -1186,3 +1186,7 @@ By completing these three demos, the lab demonstrates an end-to-end Azure DevOps
 - **App Service Slot Swap**
 - **Deployment Validation**
 - **CI/CD troubleshooting and verification**
+
+## 🚀 This Demo Depend on the Privious One -  [  Azure-DevOps-Build-Deploy-YouTube-Clone-hands-on-labs  ]
+
+👉 **[Continue to Privious One Demo 1 →](https://github.com/VyankateshwarTaikar/Azure-DevOps-Build-Deploy-YouTube-Clone-hands-on-labs-.git))**
